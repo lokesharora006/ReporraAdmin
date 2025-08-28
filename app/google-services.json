@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "929921608753",
+    "firebase_url": "https://reporra-e0a3d-default-rtdb.firebaseio.com",
+    "project_id": "reporra-e0a3d",
+    "storage_bucket": "reporra-e0a3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929921608753:android:7a6dc521340c5cd98c7910",
+        "android_client_info": {
+          "package_name": "com.example.reporraadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929921608753-67b2j4b34t8cgr435s8jum23etqr19rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reporraadmin",
+            "certificate_hash": "46e848fbe8ff491d3dee4a29c01a664bc5b0d5c1"
+          }
+        },
+        {
+          "client_id": "929921608753-a06otfrc1mg6ogas4rn6rl6j625dnp3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7M_KOFm7_WU5BIBG_lHtHO3cdWBK5GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929921608753-a06otfrc1mg6ogas4rn6rl6j625dnp3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929921608753:android:8854731b60b412768c7910",
+        "android_client_info": {
+          "package_name": "com.lokesh.reporra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929921608753-90lcqqteb4uepdokuhj3c81a6oro192v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lokesh.reporra",
+            "certificate_hash": "46e848fbe8ff491d3dee4a29c01a664bc5b0d5c1"
+          }
+        },
+        {
+          "client_id": "929921608753-a06otfrc1mg6ogas4rn6rl6j625dnp3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA7M_KOFm7_WU5BIBG_lHtHO3cdWBK5GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929921608753-a06otfrc1mg6ogas4rn6rl6j625dnp3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
